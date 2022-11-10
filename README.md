@@ -7,6 +7,6 @@ Everything here is available for referance only.
 
 The design architecture is different from that recommended by course team, so refering the code carefully.
 
-Good luck :)
+Good luck :-)
 
 ## Warning: do not copy this code completely!
